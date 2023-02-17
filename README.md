@@ -6,6 +6,7 @@ this is a documentation for the most important topics in React.
 3-getDerivedStateFromError: in this function we can catch the error boundary. 
 But the react team make the error boudary is visible as a possible in dev mode, but if we handle that it won't be visible in production mode
 example :
+```
 import "./styles.css";
 import React from "react";
 
@@ -53,6 +54,7 @@ export default function App() {
     </div>
   );
 }
+```
 
 
 ### HOC
