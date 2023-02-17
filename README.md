@@ -5,7 +5,7 @@ this is a documentation for the most important topics in React.
 2- React.portals : use when we want to render component outside the root element 
 3-getDerivedStateFromError: in this function we can catch the error boundary. 
 But the react team make the error boudary is visible as a possible in dev mode, but if we handle that it won't be visible in production mode
-example :
+example___ :
 ```
 import "./styles.css";
 import React from "react";
