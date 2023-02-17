@@ -57,3 +57,4 @@ export default function App() {
 
 
 ### HOC
+HOC stands for Higher Order Component. It's a patter where the fuction take a component as argument and return new component
