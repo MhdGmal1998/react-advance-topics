@@ -3,9 +3,7 @@ This documentation covers the most important topics in React.
 
 1. **React.forwarsRef** : use when we want to pass the refs from the parent component to the child component
 2. **React.portals** : use when we want to render component outside the root element 
-3. **getDerivedStateFromError** : in this function we can catch the error boundary in the react render. But we must notice that react team make the error boudary is visible as a possible in dev mode and won't be visible in production mode
-example :
-```js
+3. **getDerivedStateFromError** : in this function we can catch the error boundary in the react render. But we must notice that react team make the error boudary is visible as a possible in dev mode and won't be visible in production mode.example : ```js
 import "./styles.css";
 import React from "react";
 
